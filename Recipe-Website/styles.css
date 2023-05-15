@@ -4,3 +4,29 @@
     padding: 0;
     font-family:'Georgia';
 }
+
+.logo-container{
+    display: flex;
+    justify-content: center;
+}
+
+.recipe-container1{
+    display: flex;
+    justify-content: center;
+}
+.recipe-container2{
+    display:block;
+    justify-content:center;  
+}
+
+.biscuit-container{
+
+}
+
+.bun-container{
+    
+}
+
+.waffle-container{
+
+}
