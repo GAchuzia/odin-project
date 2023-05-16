@@ -10,23 +10,17 @@
     justify-content: center;
 }
 
-.recipe-container1{
+#recipe-title{
     display: flex;
     justify-content: center;
 }
-.recipe-container2{
-    display:block;
-    justify-content:center;  
-}
 
-.biscuit-container{
-
-}
-
-.bun-container{
+.recipe-container1{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    display:flex;
+    align-items: center;
+    justify-content:center;
     
-}
-
-.waffle-container{
-
 }
