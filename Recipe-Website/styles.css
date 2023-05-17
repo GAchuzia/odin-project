@@ -1,5 +1,5 @@
 * {
-    background-color: #F8F8F8;
+    background-color: #FFFFFF;
     margin: 0;
     padding: 0;
     font-family:'Georgia';
@@ -8,6 +8,7 @@
 .logo-container{
     display: flex;
     justify-content: center;
+   
 }
 
 #recipe-title{
@@ -18,7 +19,7 @@
 .recipe-container1{
     width: 200px;
     height: 200px;
-    border: 1px solid;
+    border: 3px solid;
     display:flex;
     align-items: center;
     justify-content:center;
